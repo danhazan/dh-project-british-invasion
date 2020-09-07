@@ -5,6 +5,8 @@ This is the source code and data file for the project described in:
 https://danhaza.wixsite.com/britishinvasion
 
 
+
+
 What each script does:
 
 dbpedia_collector.py - Collects all the american and british bands from dbpedia.
@@ -12,6 +14,8 @@ dbpedia_collector.py - Collects all the american and british bands from dbpedia.
 nytimes_collector.py - Collects all the nytimes articles with subject 'Music', and stores them with their extracted named entities.
 
 data_analyzer.py - Needs the data collected by the two other scripts. Tags and filters the articles and various statistics about the data.
+
+
 
 
 About the data files:
