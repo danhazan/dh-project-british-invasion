@@ -12,7 +12,7 @@ What each script does:
 
 dbpedia_collector.py - Collects all the american and british bands from dbpedia.
 
-nytimes_collector.py - Collects all the nytimes articles with subject 'Music', and stores them with their extracted named entities.
+nytimes_collector.py - Collects all the nytimes articles with subject 'Music' between 1955-2020, and stores them with their extracted named entities.
 
 data_analyzer.py - Needs the data collected by the two other scripts. Tags and filters the articles and produces various statistics about the data.
 
