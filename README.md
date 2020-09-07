@@ -5,6 +5,7 @@ This is the source code and data file for the project described in:
 https://danhaza.wixsite.com/britishinvasion
 
 
+<br/><br/>
 
 
 What each script does:
@@ -15,7 +16,7 @@ nytimes_collector.py - Collects all the nytimes articles with subject 'Music', a
 
 data_analyzer.py - Needs the data collected by the two other scripts. Tags and filters the articles and various statistics about the data.
 
-
+<br/><br/>
 
 
 About the data files:
