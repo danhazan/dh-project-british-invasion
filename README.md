@@ -3,18 +3,22 @@
 This repo contains the source code and data files for the project that is presented (in hebrew) [here](
 https://danhaza.wixsite.com/britishinvasion).
 
+This project includes the usage of NLP tools for deep analysis of news articles, collected using the NYT api and boilerpipe, as well as the collection of data from DBPedia using SPARQL queries. 
+
 
 
 <br/><br/>
 
 
-What each script does:
+About the code:
 
 dbpedia_collector.py - Collects all the american and british bands from dbpedia.
 
 nytimes_collector.py - Collects all the nytimes articles with subject 'Music' between 1955-2020, and stores them with their extracted named entities.
 
 data_analyzer.py - Needs the data collected by the two other scripts. Tags and filters the articles and produces various statistics about the data.
+
+pynytimes2 - A modification of the pynytimes library, that uses python generators to allow a more dynamic collection of the articles metadata.
 
 <br/><br/>
 
