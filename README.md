@@ -1,6 +1,6 @@
 # dh-project-british-invasion
 
-This repo contains the source code and data files for the project that is presented presented (in hebrew) [here](
+This repo contains the source code and data files for the project that is presented (in hebrew) [here](
 https://danhaza.wixsite.com/britishinvasion).
 
 
