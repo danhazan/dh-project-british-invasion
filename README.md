@@ -1,7 +1,7 @@
 # dh-project-british-invasion
 
-This repo contains the source code and data files for the project that is presented (in hebrew) [here](
-https://danhaza.wixsite.com/britishinvasion).
+This repo contains the source code and data files for the project that is presented [here](
+https://danhaza.wixsite.com/britishinvasion) (in hebrew).
 
 This project includes the usage of NLP tools for deep analysis of news articles, collected using the NYT api and boilerpipe, as well as the collection of data from DBPedia using SPARQL queries. 
 
